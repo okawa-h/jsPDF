@@ -20,7 +20,7 @@ Load jsPDF in HTML.
 
 Haxe code:
 
-```Haxe
+```haxe
 import jsPDF.JsPDF;
 
 class Main {
