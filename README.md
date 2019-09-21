@@ -15,6 +15,9 @@ https://rawgit.com/MrRio/jsPDF/master/docs/index.html
 
 ## Example
 
+This is extern.
+Load jsPDF in HTML.
+
 Haxe code:
 
 ```Haxe
